@@ -9,6 +9,7 @@
 ## Geografia da Cidade
 
 ![[content/Arsthyri/thelond.png]]
+[[content/Arsthyri/thelond.png]]
 *Mapa da cidade de Thelond*
 
 Thelond é uma cidade praticamente plana, pela sua localização na costa do continente. No noroeste (o Norte fica em direção oposta ao mar) pouco além da cidade, o relevo se diversifica um pouco, com grandes colinas cobertas por grandes plantações. A capital é dividida em 10 distritos administrativos.
