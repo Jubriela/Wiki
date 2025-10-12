@@ -43,3 +43,6 @@ As mercadorias comercializadas no mercado são diversas, variando desde peixes, 
 
 Além de comerciantes, muitas das mais famosas tavernas da cidade se encontram neste distrito, sendo muito utilizadas pelos viajantes que, por qualquer motivo, estão temporariamente na cidade.
 
+#### Distrito de Rhasg
+
+O distrito de Rhasg (literalmente "chifre", em élfico) é o maior e mais populoso distrito de Thelond.
