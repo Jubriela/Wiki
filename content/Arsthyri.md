@@ -1,0 +1,3 @@
+Arsthyri é um continente de Ilúve, que contém as seguintes nações: Adrekh, Ducado de Nara, Império Wlaralin, Neg, Principado de Ghedg, Principado de Aza, Protetorado de Sheorara, Reino de Dahakoan, Reino de Gazd, Reino de Gurkiz, e a República Sereníssima de Odrer.
+
+O nome do continente é um empréstimo linguístico do Dracônico, e literalmente significa "dos homens". Isto se dá pela história dos dragões no continente, pois eles, são considerados, por alguns, os primeiros habitantes da região.
