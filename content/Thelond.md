@@ -45,4 +45,18 @@ Além de comerciantes, muitas das mais famosas tavernas da cidade se encontram n
 
 #### Distrito de Rhasg
 
-O distrito de Rhasg (literalmente "chifre", em élfico) é o maior e mais populoso distrito de Thelond.
+O distrito de Rhasg (literalmente "chifre", em élfico) é o maior e mais populoso distrito de Thelond. Seu nome vem de uma história onde um dragão havia invadido a cidade de Thelond, e ele foi derrotado. Como prêmio de vitória, o seu chifre foi arrancado, sendo a única característica da aparência do dragão que foi lembrada. Atualmente, o chifre é exposto no Museu Nacional de Wlaralin, adjunto à Universidade Nacional de Wlaralin.
+
+A população de Rhasg é diversa, sendo composta de humanos, halflings, anões, e diversos tipos de elfos, além de ter uma pequena minoria de orcs e draconatos. As ocupações dos habitantes do distrito também é extremamente diversa, já que a sua posição é central na cidade, possuindo fronteira com os distritos de Holyàna, de Lonnen, Mancamen, Lonmandos, e da Estrada das Rosas. Portanto, muitos cidadãos de Rhasg trabalham nas diversas lojas no Mercado das Joias, de segurança particular no distrito da Estrada das Rosas, no porto, ocupando posições mais centrais, servindo a família imperial, ou até estudam na Universidade Nacional.
+
+#### Distrito da Estrada das Rosas
+
+O distrito da Estrada das Rosas é um dos únicos que ultrapassam a muralha da cidade. Ele é principalmente caracterizado pelas suas Guildas de Aventureiros, que tomam proveito da sua conexão com a Estrada das Rosas para realizar suas atividades, como escoltar comerciantes, por exemplo. Além disso, muitas dessas Guildas possuem estadias próprias, oferecendo um refúgio temporário para os aventureiros que passam pela cidade.
+
+Além das Guildas de Aventureiros, existem rumores da presença de uma Guilda de Ladinos, que não possui respaldo do governo imperial. De acordo com esses rumores, essa Guilda foca suas atividades naquelas que são ilegais, como roubos, fraudes, assassinatos, entre outros. Algumas vezes a Guarda Imperial, a principal força de segurança da cidade, atrelada à Coroa, já realizou operações contra a Guilda de Ladinos, mas os rumores de sua existência nunca acabaram, mesmo assim.
+
+O nome do distrito vem do nome da Estrada das Rosas, que conecta todas as principais cidades da Costa da Coroa, no sul do Império Wlaralin, sendo assim uma das principais estradas de todo o Império, e talvez do continente como um todo. O nome desta estrada vem da trágica história da Imperatriz Sumina, cuja flor favorita eram rosas, de todas as cores. Dizem que o Palácio Imperial era completamente coberto de rosas, de modo que era até difícil de perceber a grama no chão, debaixo das flores. O maior prazer da Imperatriz Sumina era cuidar das rosas nos jardins do Palácio, gastando grande parte de seus dias apenas nesta atividade. Entretanto, enquanto ainda jovem, ela adoeceu com uma doença grave, doença esta que parecia não ter cura. Cada vez mais, Sumina se afastava de suas rosas, e o jardim parecia mais vazio ao longo do tempo. Inevitavelmente, e tragicamente, ela falece, pedindo apenas que seu jardim fosse cuidado. Seu marido, o Imperador, arruinado emocionalmente, decide que ele faria que a Imperatriz, e seu pedido, nunca fossem esquecidos. Dessa forma, ele declara a construção da Estrada das Rosas, a maior estrada do Império, que teria campos e campos de rosas, de todas as cores, plantadas e constantemente cuidadas em todo o seu comprimento. E assim a Estrada se manteve até hoje, com todos os imperadores honrando e realizando o pedido de Sumina.
+
+#### Distrito da Isilme
+
+
