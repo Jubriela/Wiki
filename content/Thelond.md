@@ -21,7 +21,7 @@ A cidade de Thelond é dividida em 10 distritos administrativos, cada um com sua
 
 #### Distrito de Holyàna
 
-O distrito de Holyàna é assim nomeado pelo grande templo ao deus Daerphen que se encontra no interior de seus limites. **Holyàna** significa, literalmente, **"O Templo Sagrado"**, em élfico, e ele possui este nome por ser considerado o principal templo de todo o panteão élfico. De acordo com os mitos fundadores do Império, o próprio Daerphen teria fundado esse templo em sua homenagem, para que os seus seguidores nunca se encontrassem distante dele.
+O distrito de **Holyàna** é assim nomeado pelo grande templo ao deus Daerphen que se encontra no interior de seus limites. Holyàna significa, literalmente, **"O Templo Sagrado"**, em élfico, e ele possui este nome por ser considerado o principal templo de todo o panteão élfico. De acordo com os mitos fundadores do Império, o próprio Daerphen teria fundado esse templo em sua homenagem, para que os seus seguidores nunca se encontrassem distante dele.
 
 Todo ano, em duas vezes distintas, uma no solstício de inverno, e outra no solstício de verão, viajantes do mundo todo viajam até o templo, para participar de dois grandes festivais em homenagem aos deuses Amarthedhel, deusa da lua, e Daerphen, deus do sol, respectivamente. No solstício de inverno, se comemora o Festival dos Sonhos, em homenagem à Amarthedhel. No solstício de verão, se comemora o Festival do Sol Brilhante, em homenagem a Daerphen.
 
@@ -37,7 +37,7 @@ O porto é administrado pela Guilda Imperial do Mar, braço administrativo do Mi
 
 #### Distrito de Mancamen
 
-O distrito de Mancamen é o principal centro comercial de Thelond, e é assim nomeado por este fato (Mancamen significa "Mercado" em élfico). O mercado, chamado também de **Mire Mancamen** (literalmente **"O Mercado das Joias"**, em élfico) praticamente se estende desde o porto, até às muralhas da cidade. Grande parte dos artesãos da capital residem nesse distrito, já que sua mão de obra e especialidades são muito requisitadas na região. Além disso, o grande fluxo de pessoas é um grande incentivo ao comércio.
+O distrito de **Mancamen** é o principal centro comercial de Thelond, e é assim nomeado por este fato (Mancamen significa "Mercado" em élfico). O mercado, chamado também de **Mire Mancamen** (literalmente **"O Mercado das Joias"**, em élfico) praticamente se estende desde o porto, até às muralhas da cidade. Grande parte dos artesãos da capital residem nesse distrito, já que sua mão de obra e especialidades são muito requisitadas na região. Além disso, o grande fluxo de pessoas é um grande incentivo ao comércio.
 
 As mercadorias comercializadas no mercado são diversas, variando desde peixes, carnes, e produtos agrícolas, até metais preciosos, joias, e produtos mágicos. Muitos cidadãos ricos, mas não nobres, residem nesse distrito, e eles são comumente donos de negócios, líderes de guildas de artesãos e aventureiros. Se destacam também nessa região os magos e feiticeiros, que trabalham nestas guildas, mas que não são ricos o suficiente para morar no distrito de Lonmandos, onde se encontra a Universidade Nacional de Wlaralin.
 
@@ -45,13 +45,13 @@ Além de comerciantes, muitas das mais famosas tavernas da cidade se encontram n
 
 #### Distrito de Rhasg
 
-O distrito de Rhasg (literalmente "chifre", em élfico) é o maior e mais populoso distrito de Thelond. Seu nome vem de uma história onde um dragão havia invadido a cidade de Thelond, e ele foi derrotado. Como prêmio de vitória, o seu chifre foi arrancado, sendo a única característica da aparência do dragão que foi lembrada. Atualmente, o chifre é exposto no Museu Nacional de Wlaralin, adjunto à Universidade Nacional de Wlaralin.
+O distrito de **Rhasg** (literalmente "chifre", em élfico) é o maior e mais populoso distrito de Thelond. Seu nome vem de uma história onde um dragão havia invadido a cidade de Thelond, e ele foi derrotado. Como prêmio de vitória, o seu chifre foi arrancado, sendo a única característica da aparência do dragão que foi lembrada. Atualmente, o chifre é exposto no Museu Nacional de Wlaralin, adjunto à Universidade Nacional de Wlaralin.
 
 A população de Rhasg é diversa, sendo composta de humanos, halflings, anões, e diversos tipos de elfos, além de ter uma pequena minoria de orcs e draconatos. As ocupações dos habitantes do distrito também é extremamente diversa, já que a sua posição é central na cidade, possuindo fronteira com os distritos de Holyàna, de Lonnen, Mancamen, Lonmandos, e da Estrada das Rosas. Portanto, muitos cidadãos de Rhasg trabalham nas diversas lojas no Mercado das Joias, de segurança particular no distrito da Estrada das Rosas, no porto, ocupando posições mais centrais, servindo a família imperial, ou até estudam na Universidade Nacional.
 
 #### Distrito da Estrada das Rosas
 
-O distrito da Estrada das Rosas é um dos únicos que ultrapassam a muralha da cidade. Ele é principalmente caracterizado pelas suas Guildas de Aventureiros, que tomam proveito da sua conexão com a Estrada das Rosas para realizar suas atividades, como escoltar comerciantes, por exemplo. Além disso, muitas dessas Guildas possuem estadias próprias, oferecendo um refúgio temporário para os aventureiros que passam pela cidade.
+O distrito da **Estrada das Rosas** é um dos únicos que ultrapassam a muralha da cidade. Ele é principalmente caracterizado pelas suas Guildas de Aventureiros, que tomam proveito da sua conexão com a Estrada das Rosas para realizar suas atividades, como escoltar comerciantes, por exemplo. Além disso, muitas dessas Guildas possuem estadias próprias, oferecendo um refúgio temporário para os aventureiros que passam pela cidade.
 
 Além das Guildas de Aventureiros, existem rumores da presença de uma Guilda de Ladinos, que não possui respaldo do governo imperial. De acordo com esses rumores, essa Guilda foca suas atividades naquelas que são ilegais, como roubos, fraudes, assassinatos, entre outros. Algumas vezes a Guarda Imperial, a principal força de segurança da cidade, atrelada à Coroa, já realizou operações contra a Guilda de Ladinos, mas os rumores de sua existência nunca acabaram, mesmo assim.
 
